@@ -1,18 +1,18 @@
 # serve
 A blazingly fast tool for serving static files written in rust
 
-## install
+## Installation
 
-```
-// make sure you have rust installed
+```console
+# make sure you have rust installed on your system
 git clone https://github.com/a-rustacean/serve.git
 cd serve
 ./install.sh
 ```
 
-## uninstall
+## Uninstall
 
-```
-// go to the directory you cloned
+```console
+# make sure you are in the directory you cloned
 ./uninstall.sh
 ```
