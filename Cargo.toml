@@ -1,0 +1,11 @@
+[package]
+name = "serve"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+local-ip-address = "0.5.1"
+tiny_file_server = "0.1.5"
+unicode-segmentation = "1.10.1"
