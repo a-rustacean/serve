@@ -122,7 +122,7 @@ fn main() {
             "Serving {}
 Local: http://localhost:{}
 Network: http://{}:{1}
-Press Ctr-C to stop.",
+Press Ctrl-C to stop.",
             path.file_name().unwrap_or(OsStr::new("/")).to_str().unwrap(),
             port,
             ip.to_string()
