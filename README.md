@@ -1,5 +1,5 @@
 # serve
-A blazingly fast tool for serving static files written in rust
+A blazingly fast tool for serving static files, written in rust
 
 ## Installation
 
