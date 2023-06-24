@@ -6,7 +6,7 @@ A blazingly fast tool for serving static files, written in rust
 serve the directory you are currently working in:
 
 ```shell
-serve {PORT}
+serve {PORT} # default 3000
 ```
 
 ## Installation
