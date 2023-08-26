@@ -3,16 +3,8 @@ A blazingly fast tool for serving static files, written in rust
 
 ## Usage
 
-serve the directory you are currently working in:
-
 ```shell
-serve {PORT} # default 3000
-```
-
-## Usage
-
-```console
-serve <PORT> # default 3000
+serve <PORT> # default port is 3000
 ```
 
 ## Installation
