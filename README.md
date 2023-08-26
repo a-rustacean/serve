@@ -1,6 +1,12 @@
 # serve
 A blazingly fast tool for serving static files written in rust
 
+## Usage
+
+```console
+serve <PORT> # default 3000
+```
+
 ## Installation
 
 ```console
